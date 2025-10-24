@@ -1,0 +1,5 @@
+# Python 3.12
+numpy==2.3.4 
+scipy==1.16.2
+torch==2.2.2
+matplotlib==3.10.7
